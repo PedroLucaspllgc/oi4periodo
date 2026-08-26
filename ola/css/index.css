@@ -1,0 +1,22 @@
+body {background-color: rgba(35, 102, 245, 0.842);}
+
+#h {
+    color: white;
+    right: 42%;
+    top: 10%;
+    font-family: Arial;
+    position: fixed;
+}
+
+#a {
+    color: white;
+    right: 41.5%;
+    position: fixed;
+}
+
+#bt1 {
+    background-color: rgba(65, 140, 253, 0.87);
+    color: white;
+    border-radius: 10px;
+    border-style: solid;
+}
