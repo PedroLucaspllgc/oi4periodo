@@ -17,6 +17,23 @@ body {background-color: rgba(35, 102, 245, 0.842);}
 #bt1 {
     background-color: rgba(65, 140, 253, 0.87);
     color: white;
+    width: 100px;
+    height: 30px;
     border-radius: 10px;
     border-style: solid;
+    top: 20%;
+    right: 48%;
+    position: fixed;
+}
+
+#bt2 {
+    background-color: rgba(65, 140, 253, 0.87);
+    color: white;
+    width: 100px;
+    height: 30px;
+    border-radius: 10px;
+    border-style: solid;
+    top: 30%;
+    right: 48%;
+    position: fixed;
 }
